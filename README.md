@@ -1,3 +1,5 @@
+It is a freeCodeCamp for the sole purpose of learning and building.
+
 # coffee_page
 
 **https://shan-10.github.io/coffee_page/caf%C3%A9%20de%20Shan/**
